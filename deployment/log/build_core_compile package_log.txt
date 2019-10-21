@@ -1,0 +1,12 @@
+Buildfile: C:\Users\Shipra Mandal\Documents\Mendix\App1-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 31 source files to C:\Users\Shipra Mandal\Documents\Mendix\App1-main\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\Users\Shipra Mandal\Documents\Mendix\App1-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 11 seconds
+
+

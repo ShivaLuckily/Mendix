@@ -1,0 +1,9 @@
+Buildfile: C:\Users\Shipra Mandal\Documents\Mendix\App1-main\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 28 files to C:\Users\Shipra Mandal\Documents\Mendix\App1-main\deployment
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
